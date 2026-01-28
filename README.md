@@ -69,8 +69,8 @@ To set up the project on your local machine, follow these steps:
 **1. Clone the Repository**
 
 ```bash
-git clone "https://github.com/ngenux/google-marketing-analytics-bot.git"
-cd google-marketing-analytics-bot
+git clone project_name
+cd project_name
 ```
 
 **2. Set Up Docker**
@@ -107,7 +107,7 @@ After deploying the function, it will display the URL link as below.
 
 Below is the URL to access the application: 
 
-https://marketing-analytics-bot-5uu4bf3fga-uc.a.run.app
+https://marketing-analytics-bot-xxxxx-uc.a.run.app
 
 ## 🚀 CI/CD Setup Using Google Cloud Build
 
@@ -128,6 +128,4 @@ Once the Docker image is built, it is pushed to the Google Cloud Artifact Regist
 **3. Deploy to Google Cloud Run**
 
 The Docker image is deployed to an existing Google Cloud Run service. The deployment is configured to use the newly built image, ensuring that the latest version of the application is running.
-
-Contact vishruth.dilip@ngenux.com or tarun.nuthula@ngenux.com for login credentials.
 ---

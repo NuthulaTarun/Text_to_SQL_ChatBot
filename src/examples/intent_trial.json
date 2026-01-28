@@ -1,0 +1,251 @@
+{
+    "examples": [
+        {
+            "input": "Can you help me optimize our marketing spend across different channels?",
+            "classification": "optimization",
+            "objective":"maximize revenue",
+            "duration":"",
+            "feature":""
+        },
+        {
+            "input": "How should we allocate our marketing budget to get the best ROI?",
+            "classification": "optimization",
+            "objective":"maximize revenue",
+            "duration":"",
+            "feature":""
+        },
+
+        {
+            "input": "What’s the most effective way to distribute our marketing spend?",
+            "classification": "optimization",
+            "objective":"maximize revenue",
+            "duration":"",
+            "feature":""
+        },
+        {
+            "input": "Based on our current data, where should we allocate more marketing funds?",
+            "classification": "optimization",
+            "objective":"maximize conversions",
+            "duration":"",
+            "feature":""
+        },
+        {
+            "input": "Can you analyze our marketing performance and suggest budget reallocation?",
+            "classification": "optimization",
+            "objective":"maximize revenue",
+            "duration":"",
+            "feature":""
+        },
+        {
+            "input": "What’s the best way to allocate our marketing spend over the next quarter?",
+            "classification": "optimization",
+            "objective":"maximize conversions",
+            "duration":"",
+            "feature":""
+        },
+        {
+            "input": "Can you analyze our marketing performance and suggest budget reallocation?",
+            "classification": "optimization",
+            "objective":"maximize conversions",
+            "duration":"",
+            "feature":""
+        },
+        {
+            "input": "Can you help us forecast our revenue for the next quarter?",
+            "classification": "forecasting",
+            "objective":"revenue projection",
+            "duration":"start_date:06-08-2024,end_date:06-11-2024",
+            "feature":"revenue"
+        },
+        {
+            "input": "What is our projected revenue for the upcoming fiscal year?",
+            "classification": "forecasting",
+            "objective":"revenue projection",
+            "duration":"start_date:06-08-2024,end_date:06-08-2025",
+            "feature":"revenue"
+        },
+        {
+            "input": "How do you expect our revenue to change over the next six months?",
+            "classification": "forecasting",
+            "objective":"revenue projection",
+            "duration":"start_date:06-08-2024,end_date:06-02-2025",
+            "feature":"revenue"
+        },
+        {
+            "input": "Based on our current sales data, can you forecast our revenue?",
+            "classification": "forecasting",
+            "objective":"revenue projection",
+            "duration":"",
+            "feature":"revenue"
+        },
+        {
+            "input": "Can you analyze our historical data and provide a revenue forecast?",
+            "classification": "forecasting",
+            "objective":"revenue projection",
+            "duration":"",
+            "feature":"revenue"
+
+        },
+        {
+            "input": "What is our projected revenue over the next year with our current strategy?",
+            "classification": "forecasting",
+            "objective":"revenue projection",
+            "duration":"start_date:06-08-2024,end_date:06-08-2025",
+            "feature":"revenue"
+
+        },
+        {
+            "input": "What is our revenue forecast for the next three months?",
+            "classification": "forecasting",
+            "objective":"revenue projection",
+            "duration":"start_date:06-08-2024,end_date:06-11-2024",
+            "feature":"revenue"
+        },
+        {
+            "input": "What is our revenue forecast for the next three months?",
+            "classification": "forecasting",
+            "objective":"revenue projection",
+            "duration":"start_date:06-08-2024,end_date:06-11-2024",
+            "feature":"revenue"
+        },
+        {
+            "input": "What is our revenue forecast for the next 15 days?",
+            "classification": "forecasting",
+            "objective":"revenue projection",
+            "duration":"start_date:24-07-2024,end_date:07-08-2024",
+            "feature":"revenue"
+        },
+        {
+            "input": "What is our revenue forecast for the next 10 days?",
+            "classification": "forecasting",
+            "objective":"revenue projection",
+            "duration":"start_date:24-07-2024,end_date:02-08-2024",
+            "feature":"revenue"
+        },
+        {
+            "input": "Give me a comparison between the percentage of new users and the keyword performance trends over the last two months?",
+            "classification": "none",
+            "objective":"none",
+            "duration":"none",
+            "feature":""
+        },
+        {
+            "input": "Which city in the USA had the highest percentage of new visits in the last 45 days?",
+            "classification": "none",
+            "objective":"none",
+            "duration":"none",
+            "feature":""
+        },
+        {
+            "input": "How are our ads performing?",
+            "classification": "none",
+            "objective":"none",
+            "duration":"none",
+            "feature":""
+        },
+        {
+            "input": "What is the average number of daily visitors to the site over the last month?",
+            "classification": "none",
+            "objective":"none",
+            "duration":"none",
+            "feature":""
+        },
+        {
+            "input": "How many visitors did the site have each month for the past year?",
+            "classification": "none",
+            "objective":"none",
+            "duration":"none",
+            "feature":""
+        },
+        {
+            "input": "What is the ratio of new visitors to returning visitors over the last quarter?",
+            "classification": "none",
+            "objective":"none",
+            "duration":"none",
+            "feature":""
+        },
+        {
+            "input": "What is the conversion rate of visitors into customers over the past month?",
+            "classification": "none",
+            "objective":"none",
+            "duration":"none",
+            "feature":""
+        },
+        {
+            "input": "What are the top 10 referral sources driving traffic to the site over the past quarter?",
+            "classification": "none",
+            "objective":"none",
+            "duration":"none",
+            "feature":""
+        },
+        {
+            "input": "How many visitors were generated from a specific marketing campaign?",
+            "classification": "none",
+            "objective":"none",
+            "duration":"none",
+            "feature":""
+        },
+        {
+            "input": "What is the conversion rate of traffic from search ads into leads or sales for each landing page?",
+            "classification": "none",
+            "objective":"none",
+            "duration":"none",
+            "feature":""
+        }
+        ,
+        {
+            "input": "what is the hits forecast for the 2 days",
+            "classification": "forecasting",
+            "objective":"hits forecasting",
+            "duration":"start_date:24-07-2024,end_date:25-07-2024",
+            "feature":"hits"
+        }
+        ,
+        {
+            "input": "what is the hits forecast for the 10 days",
+            "classification": "forecasting",
+            "objective":"hits forecasting",
+            "duration":"start_date:24-07-2024,end_date:02-08-2024",
+            "feature":"hits"
+        }
+        ,
+        {
+            "input": "what is the hits forecast for the 5 days",
+            "classification": "forecasting",
+            "objective":"hits forecasting",
+            "duration":"start_date:24-07-2024,end_date:28-07-2024",
+            "feature":"hits"
+        }
+        ,
+        {
+            "input": "what is the pageviews forecast for the 2 days",
+            "classification": "forecasting",
+            "objective":"hits forecasting",
+            "duration":"start_date:24-07-2024,end_date:25-07-2024",
+            "feature":"pageviews"
+        },
+        {
+            "input": "what is the pageviews for next 10 days",
+            "classification": "forecasting",
+            "objective":"hits forecasting",
+            "duration":"start_date:24-07-2024,end_date:02-08-2024",
+            "feature":"pageviews"
+        },
+        {
+            "input": "what is the sessiontime for the 2 days",
+            "classification": "forecasting",
+            "objective":"hits forecasting",
+            "duration":"start_date:24-07-2024,end_date:25-07-2024",
+            "feature":"sessiontime"
+        },
+        {
+            "input": "what is the sessiontime for next 10 days",
+            "classification": "forecasting",
+            "objective":"hits forecasting",
+            "duration":"start_date:24-07-2024,end_date:02-08-2024",
+            "feature":"sessiontime"
+        }
+    
+    ]
+
+}

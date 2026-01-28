@@ -1,0 +1,116 @@
+{
+    "examples": [
+        {
+            "input": "Can you help me optimize our marketing spend across different channels?",
+            "classification": "optimization"
+        },
+        {
+            "input": "How should we allocate our marketing budget to get the best ROI?",
+            "classification": "optimization"
+        },
+        {
+            "input": "What’s the most effective way to distribute our marketing spend?",
+            "classification": "optimization"
+        },
+        {
+            "input": "Based on our current data, where should we allocate more marketing funds?",
+            "classification": "optimization"
+        },
+        {
+            "input": "Can you analyze our marketing performance and suggest budget reallocation?",
+            "classification": "optimization"
+        },
+        {
+            "input": "What’s the best way to allocate our marketing spend over the next quarter?",
+            "classification": "optimization"
+        },
+        {
+            "input": "Can you analyze our marketing performance and suggest budget reallocation?",
+            "classification": "optimization"
+        },
+        {
+            "input": "Can you help us forecast our revenue for the next quarter?",
+            "classification": "forecasting"
+        },
+        {
+            "input": "What is our projected revenue for the upcoming fiscal year?",
+            "classification": "forecasting"
+        },
+        {
+            "input": "How do you expect our revenue to change over the next six months?",
+            "classification": "forecasting"
+        },
+        {
+            "input": "Based on our current sales data, can you forecast our revenue?",
+            "classification": "forecasting"
+        },
+        {
+            "input": "Can you analyze our historical data and provide a revenue forecast?",
+            "classification": "forecasting"
+        },
+        {
+            "input": "What is our projected revenue over the next year with our current strategy?",
+            "classification": "forecasting"
+        },
+        {
+            "input": "What is our revenue forecast for the next three months?",
+            "classification": "forecasting"
+        },
+        {
+            "input": "What is our revenue forecast for the next three months?",
+            "classification": "forecasting"
+        },
+        {
+            "input": "What is our revenue forecast for the next three months?",
+            "classification": "forecasting"
+        },
+        {
+            "input": "What is our revenue forecast for the next three months?",
+            "classification": "forecasting"
+        },
+        {
+            "input": "What is our revenue forecast for the next three months?",
+            "classification": "forecasting"
+        },
+        {
+            "input": "Give me a comparison between the percentage of new users and the keyword performance trends over the last two months?",
+            "classification": "none"
+        },
+        {
+            "input": "Which city in the USA had the highest percentage of new visits in the last 45 days?",
+            "classification": "none"
+        },
+        {
+            "input": "How are our ads performing?",
+            "classification": "none"
+        },
+        {
+            "input": "What is the average number of daily visitors to the site over the last month?",
+            "classification": "none"
+        },
+        {
+            "input": "How many visitors did the site have each month for the past year?",
+            "classification": "none"
+        },
+        {
+            "input": "What is the ratio of new visitors to returning visitors over the last quarter?",
+            "classification": "none"
+        },
+        {
+            "input": "What is the conversion rate of visitors into customers over the past month?",
+            "classification": "none"
+        },
+        {
+            "input": "What are the top 10 referral sources driving traffic to the site over the past quarter?",
+            "classification": "none"
+        },
+        {
+            "input": "How many visitors were generated from a specific marketing campaign?",
+            "classification": "none"
+        },
+        {
+            "input": "What is the conversion rate of traffic from search ads into leads or sales for each landing page?",
+            "classification": "none"
+        }
+    ]
+}
